@@ -1,0 +1,221 @@
+# depslib dependency file v1.0
+1593181286 source:c:\users\luana\desktop\workspace\tp4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593181818 c:\users\luana\desktop\workspace\tp4\linkedlist.h
+
+1593286289 source:c:\users\luana\desktop\workspace\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Jugador.h"
+	"Controller.h"
+
+1593286283 source:c:\users\luana\desktop\workspace\tp4\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Jugador.h"
+	"Parser.h"
+	"utn.h"
+	"Controller.h"
+	<string.h>
+
+1593293074 source:c:\users\luana\desktop\workspace\tp4\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	"Jugador.h"
+	"utn.h"
+	<string.h>
+
+1593293342 c:\users\luana\desktop\workspace\tp4\jugador.h
+	"LinkedList.h"
+
+1593293273 c:\users\luana\desktop\workspace\tp4\controller.h
+
+1593202279 source:c:\users\luana\desktop\workspace\tp4\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Jugador.h"
+
+1593200097 c:\users\luana\desktop\workspace\tp4\parser.h
+
+1593281077 c:\users\luana\desktop\workspace\tp4\utn.h
+
+1593281076 source:c:\users\luana\desktop\workspace\tp4\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1593181286 source:c:\users\luana\desktop\workspace\tp4-jugadores\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593181818 c:\users\luana\desktop\workspace\tp4-jugadores\linkedlist.h
+
+1593311074 source:c:\users\luana\desktop\workspace\tp4-jugadores\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Jugador.h"
+
+1593310555 c:\users\luana\desktop\workspace\tp4-jugadores\jugador.h
+	"LinkedList.h"
+
+1593281076 source:c:\users\luana\desktop\workspace\tp4-jugadores\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1593281077 c:\users\luana\desktop\workspace\tp4-jugadores\utn.h
+
+1593310516 source:c:\users\luana\desktop\workspace\tp4-jugadores\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	"Jugador.h"
+	"utn.h"
+	<string.h>
+
+1593311074 source:c:\users\luana\desktop\workspace\tp4-jugadores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Jugador.h"
+	"Controller.h"
+
+1593311124 c:\users\luana\desktop\workspace\tp4-jugadores\controller.h
+
+1593311124 source:c:\users\luana\desktop\workspace\tp4-jugadores\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Jugador.h"
+	"Parser.h"
+	"utn.h"
+	"Controller.h"
+	<string.h>
+
+1593310687 c:\users\luana\desktop\workspace\tp4-jugadores\parser.h
+
+1593311180 source:c:\users\usuario\downloads\tp_laboratorio_1-master\tp_laboratorio_1-master\tp4-jugadores\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Jugador.h"
+	"Parser.h"
+	"utn.h"
+	"Controller.h"
+	<string.h>
+
+1593311180 c:\users\usuario\downloads\tp_laboratorio_1-master\tp_laboratorio_1-master\tp4-jugadores\linkedlist.h
+
+1593311180 c:\users\usuario\downloads\tp_laboratorio_1-master\tp_laboratorio_1-master\tp4-jugadores\jugador.h
+	"LinkedList.h"
+
+1593311180 c:\users\usuario\downloads\tp_laboratorio_1-master\tp_laboratorio_1-master\tp4-jugadores\parser.h
+
+1593311180 c:\users\usuario\downloads\tp_laboratorio_1-master\tp_laboratorio_1-master\tp4-jugadores\utn.h
+
+1593311180 c:\users\usuario\downloads\tp_laboratorio_1-master\tp_laboratorio_1-master\tp4-jugadores\controller.h
+
+1593311180 source:c:\users\usuario\downloads\tp_laboratorio_1-master\tp_laboratorio_1-master\tp4-jugadores\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	"Jugador.h"
+	"utn.h"
+	<string.h>
+
+1593311180 source:c:\users\usuario\downloads\tp_laboratorio_1-master\tp_laboratorio_1-master\tp4-jugadores\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593311180 source:c:\users\usuario\downloads\tp_laboratorio_1-master\tp_laboratorio_1-master\tp4-jugadores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Jugador.h"
+	"Controller.h"
+
+1593311180 source:c:\users\usuario\downloads\tp_laboratorio_1-master\tp_laboratorio_1-master\tp4-jugadores\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Jugador.h"
+
+1593311180 source:c:\users\usuario\downloads\tp_laboratorio_1-master\tp_laboratorio_1-master\tp4-jugadores\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1593311180 source:c:\users\usuario\downloads\keti\tp_laboratorio_1-master\tp_laboratorio_1-master\tp4-jugadores\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Jugador.h"
+	"Parser.h"
+	"utn.h"
+	"Controller.h"
+	<string.h>
+
+1593311180 c:\users\usuario\downloads\keti\tp_laboratorio_1-master\tp_laboratorio_1-master\tp4-jugadores\linkedlist.h
+
+1593311180 c:\users\usuario\downloads\keti\tp_laboratorio_1-master\tp_laboratorio_1-master\tp4-jugadores\jugador.h
+	"LinkedList.h"
+
+1593311180 c:\users\usuario\downloads\keti\tp_laboratorio_1-master\tp_laboratorio_1-master\tp4-jugadores\parser.h
+
+1593311180 c:\users\usuario\downloads\keti\tp_laboratorio_1-master\tp_laboratorio_1-master\tp4-jugadores\utn.h
+
+1593311180 c:\users\usuario\downloads\keti\tp_laboratorio_1-master\tp_laboratorio_1-master\tp4-jugadores\controller.h
+
+1593311180 source:c:\users\usuario\downloads\keti\tp_laboratorio_1-master\tp_laboratorio_1-master\tp4-jugadores\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	"Jugador.h"
+	"utn.h"
+	<string.h>
+
+1593311180 source:c:\users\usuario\downloads\keti\tp_laboratorio_1-master\tp_laboratorio_1-master\tp4-jugadores\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593311180 source:c:\users\usuario\downloads\keti\tp_laboratorio_1-master\tp_laboratorio_1-master\tp4-jugadores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Jugador.h"
+	"Controller.h"
+
+1593311180 source:c:\users\usuario\downloads\keti\tp_laboratorio_1-master\tp_laboratorio_1-master\tp4-jugadores\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Jugador.h"
+
+1593311180 source:c:\users\usuario\downloads\keti\tp_laboratorio_1-master\tp_laboratorio_1-master\tp4-jugadores\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
